@@ -75,25 +75,25 @@ Let's nerd out.
 
 **Note**: The Numbers API responds with Text (Not JSON!), so we can use the `.text()` method to parse the response instead of `.json()`.
 
-1.  Number One.
+<!-- 1.  Number One.
 
     * When a user clicks on the button 'Facts About 1':
       * fetch a random fact about the number 1 from "/{number}/trivia" endpoint.
-      * Add the fact to the DOM in the `#one-facts` div
+      * Add the fact to the DOM in the `#one-facts` div -->
 
-2.  Pick a Number, Any Number.
+<!-- 2.  Pick a Number, Any Number.
 
     * When a user enters a number in the input:
       * On _Change_, fetch a math fact about that number (Hint! Try looking into different event types!)
       * Try adding a validation so that a user can't submit a non-number
-      * Show it on the screen in the `#random-math-fact` div
+      * Show it on the screen in the `#random-math-fact` div -->
 
-3.  Those who fail to study history are doomed to repeat it
+<!-- 3.  Those who fail to study history are doomed to repeat it
 
     * When the page loads, start an interval:
       * Every 5 seconds, fetch a fact about a year and show it on the screen in the `#year-history` div
       * Start with this year
-      * Every 5 seconds, get the fact about the previous year
+      * Every 5 seconds, get the fact about the previous year -->
 
 4.  All the numbers
 
